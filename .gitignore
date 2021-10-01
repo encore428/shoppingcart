@@ -1,0 +1,5 @@
+.vscode/
+.env
+node_modules/
+styleguide/
+README cra gen.md

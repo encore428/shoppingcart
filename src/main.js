@@ -8,7 +8,7 @@ import CartPage from "./components/cart-page";          // shopping page
 
 export default function MainForm() {
 
-  const [homework, setHomework] = React.useState('pokemon');                 // initialise to career
+  const [homework, setHomework] = React.useState('shopping');
 
 
     return (
