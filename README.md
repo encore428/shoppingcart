@@ -5,7 +5,6 @@
 
 <a href="./Day 3 homework.pdf">Page 95 and 96</a> of Day 3 presentation slide sets out the framework for the Homework as below:
 
-
 Create a new application using Create React App:
 - When it first load, shows the login page: refers to https://transition-to-react-playground.vercel.app/login for how it look like
 - When user login successfully, shows the marketplace page.https://transition-to-react-playground.vercel.app/marketplace-mock
@@ -22,7 +21,7 @@ Deploy the site and the styleguidist site to Netlify and submit the URLs togethe
  
 # Deployment
 
-The app has been deployed to Netlify as below:
+The app contined from the app of Homework Day 1 and Day 2, and added on the functinality required for Homework Day 3.  The app has been deployed to Netlify as below:
 
 https://confident-golick-a02a49.netlify.app 
 
