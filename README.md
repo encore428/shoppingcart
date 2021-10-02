@@ -27,7 +27,7 @@ https://confident-golick-a02a49.netlify.app
 
 For the shoppingCart functionality required for Homework Day 3, it is accessible under the navigation item 'shopping' on top right.
  
-The styleguidist site has been deployed to Netlify as below:
+The styleguidist repository is at https://github.com/encore428/styleguide, and site has been deployed to Netlify as below:
 
 https://trusting-austin-c3dcde.netlify.app/ 
  
